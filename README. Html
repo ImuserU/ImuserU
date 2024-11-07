@@ -1,0 +1,46 @@
+<!doctype html>
+<head>
+  <style>
+    body{background:#f2febd95;}
+    h1{
+      color:red;
+      font-size: 30px;
+      font-weight:bold;
+      margin-bottom: 30px;
+    }
+    dt{
+      color:blue;
+      font-size:20px;
+      font-weight:;
+      font-family:Monospace;
+      margin-left:40px;
+    }
+    dd{
+      margin-bottom:10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>
+Outline
+  </h1>
+  <dt><span style="font-weight:bold">I</span>.Introduction</dt>
+  <dd> <span style="font-weight:bold; color:green">A. Hook:</span> Highlight the power of each vote in shaping the nation’s future.</dd>
+  <dd><span style="color:green; font-weight:bold">B. Purpose Statement:</span>To persuade voters to vote with a sense of responsibility and to choose the leader of the nation wisely</dd>
+  <dd style="margin-bottom:20px">
+<span style="color:green; font-weight:bold">C. Preview of Main Points:</span>
+<br>1. Why responsible voting matters
+<br>2. How Responsible Voting are Practicable
+  </dd>
+  <dt><span style="font-weight:bold">II.</span>Why Responsible Voting are Matter</dt>
+  <dd style="margin-bottom:20px">
+<span style="color:green; font-weight:bold">A. How voting influences </span>the nation’s direction on key issues(e.g., economy, education, healthcare).<br>
+<span style="color:green; font-weight:bold">B. Historical examples</span>where voting(or lack of voting) had a long-term impact.<br>
+  </dd>
+  <dt><span style="font-weight:bold">III.</span>How Responsible Voting are Practicable</dt>
+  <dd style="margin-bottom:20px">
+<span style="color:green; font-weight:bold">A. Explaination</span> of why Cenozoic era are uncomplicated to vote with background data about candidates because of the existence of internet in this era <br>
+<span style="color:green; font-weight:bold">B. Give</span> techniques of how to perceive the candidates qaulity of leadership<br>
+</dd>
+  <dt><span style="font-weight:bold">IV.</span>Conclusion</dt>
+</body>
